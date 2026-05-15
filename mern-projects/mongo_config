@@ -1,0 +1,9 @@
+
+
+username: vkbhamare26_db_user
+password :nLEciPkgqjt5vKB0
+
+MONGO_URI=mongodb+srv://vkbhamare26_db_user:nLEciPkgqjt5vKB0@cluster0.jr0utpt.mongodb.net/?appName=Cluster0
+PORT=5000
+
+mongodb+srv://vkbhamare26_db_user:nLEciPkgqjt5vKB0@cluster0.jr0utpt.mongodb.net/?appName=Cluster0
